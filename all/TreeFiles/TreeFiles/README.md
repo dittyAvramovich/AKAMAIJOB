@@ -19,4 +19,7 @@ path-to-application:
 If you do not have it installed, go to
 https://www.microsoft.com/net/download/windows. On this page select the
 Download .NET Core x.x.x SDK as shown in the following screen shot.
-then you should download the project and then run the app by clicking on the  green arrow button at athe top of the page.
+then you should download the project and then run the app by opening the file "Tre-file
+double click on treefile.sln on the  green arrow button at the top of the page.
+
+"
